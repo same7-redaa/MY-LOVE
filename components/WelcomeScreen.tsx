@@ -63,7 +63,7 @@ const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onEnter }) => {
 
           <div className="h-1 w-32 bg-gradient-to-r from-transparent via-pink-400 to-transparent my-6"></div>
 
-          <p className="text-[3.5vw] md:text-4xl text-pink-800 mb-10 font-bold leading-relaxed max-w-2xl px-2">
+          <p className="text-[4.5vw] md:text-5xl text-pink-800 mb-10 font-bold leading-relaxed max-w-2xl px-2">
             <span className="whitespace-nowrap block sm:inline">النهاردة عيد الحب، بس أنا كل أيامي معاكي عيد</span>
             <span className="text-base md:text-2xl mt-2 block font-medium opacity-80">يا أحلى حاجة حصلت في حياتي</span>
           </p>
